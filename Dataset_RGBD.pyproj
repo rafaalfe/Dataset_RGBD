@@ -26,6 +26,7 @@
     <Compile Include="Rename.py" />
     <Compile Include="Dataset_RGBD.py" />
     <Compile Include="Raw2PNG.py" />
+    <Compile Include="train_test_txt.py" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|VisualStudio|for Dataset_RGBD" />
