@@ -22,6 +22,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="convertppm_pgm.py" />
+    <Compile Include="depth2hha.py" />
+    <Compile Include="interpolation.py" />
     <Compile Include="Sync.py" />
     <Compile Include="Rename.py" />
     <Compile Include="Dataset_RGBD.py" />

@@ -6,8 +6,8 @@ import re
 dataset_dir = r'C:\Users\RAFA\Ubuntu\RGBX\RGBX_Semantic_Segmentation\datasets\NYUDepthv2\RGB'
 
 # Rasio train dan test (sesuai dengan repository di GitHub)
-train_ratio = 0.8
-test_ratio = 0.2
+train_ratio = 0.55
+test_ratio = 0.45
 
 # Daftar file dalam direktori dataset
 file_list = os.listdir(dataset_dir)

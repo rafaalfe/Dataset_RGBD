@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Dataset_RGBD", "Dataset_RGBD.pyproj", "{19636454-51F2-47EC-AA5A-0B2181C5FFFD}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "nyuv2-toolbox", "..\nyuv2-toolbox\nyuv2-toolbox.pyproj", "{7C2B1C61-89D7-4514-8AA8-68E91AF2589E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{19636454-51F2-47EC-AA5A-0B2181C5FFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{19636454-51F2-47EC-AA5A-0B2181C5FFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C2B1C61-89D7-4514-8AA8-68E91AF2589E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C2B1C61-89D7-4514-8AA8-68E91AF2589E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
